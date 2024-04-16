@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FitnessTrack</string>
+    <string name="Logoname">Dietsnap</string>
+    <string name="your_goals">Your Goals</string>
+    <string name="explore">Explore</string>
+    <string name="find_diets">Find Diets</string>
+    <string name="find_nutritions">Find Nutritionist</string>
+    <string name="des_find_diets">Find premade diets according to your cuisine</string>
+    <string name="des_find_nutritions">Get customized diets to achieve your healthgoal</string>
+    <string name="goals_title">Keto Weight loss plan</string>
+    <string name="goals_des">Current Major Goal</string>
+</resources>
